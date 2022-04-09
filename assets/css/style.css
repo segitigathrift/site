@@ -1079,7 +1079,7 @@ html, body {
 /* FOOTER
 ================================================== */
 .site-footer {
-    padding-top: 95px;
+    padding-top: 0px;
 }
 
 .site-footer .site-title {
